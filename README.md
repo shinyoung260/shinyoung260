@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shinyoung Kim</h1>
 <h3 align="center">A passionate Data Scientist from Penn State University</h3>
 
+- 🔭 I worked as a **Undergraduate Research Assistant in Penn State University, Department of Materials Science & Engineering**
+
 - 🌱 I’m currently learning **Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shinyoung260](https://github.com/shinyoung260)
 
 - 📫 How to reach me **shinyoungkim260@gmail.com**
+
+- ⚡ Fun fact **I can speak Korean and Japanese :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
