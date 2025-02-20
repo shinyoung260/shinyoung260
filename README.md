@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shinyoung Kim</h1>
 <h3 align="center">A passionate Data Scientist from Penn State University</h3>
 
-- 🔭 I worked as a **Undergraduate Research Assistant in Penn State University, Department of Materials Science & Engineering**
+- 🔭 I worked as a **Undergraduate Data Analyst (Research Assistant) in Penn State University, Department of Materials Science & Engineering**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Gradio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shinyoung260](https://github.com/shinyoung260)
 
